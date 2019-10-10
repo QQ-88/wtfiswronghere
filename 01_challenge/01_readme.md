@@ -1,0 +1,1 @@
+Changed syntax from '=' to '==', that fixed it. Easy one.
