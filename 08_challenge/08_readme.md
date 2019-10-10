@@ -1,0 +1,1 @@
+Function was misisng the self attribute

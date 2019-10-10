@@ -1,0 +1,1 @@
+Three separate syntax errors
