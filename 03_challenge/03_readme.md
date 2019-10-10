@@ -1,0 +1,1 @@
+The parameter given to the function was in string format, changed to int
